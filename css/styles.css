@@ -58,3 +58,10 @@ body {
 #reservebtn {
     width: 200px;
 }
+
+.tab-content {
+    padding: 10px;
+    border-bottom: #dddddd 1px solid;
+    border-left: #dddddd 1px solid;
+    border-right: #dddddd 1px solid;
+}
